@@ -108,8 +108,10 @@ API desenvolvida no bootcamp back-end Java da WoMakersCode, cujo objetivo é reg
 
 - **Implementação do Spring Security com token JWT**: para maior segurança, foi implementado o Spring Security e dessa forma, o usuário deverá estar autenticado para acessar os endpoints.
 
+
+- **Representação visual do sistema por meio de um diagrama**: Foi elaborado um diagrama que representa a estrutura do projeto como um todo. O diagrama encontra-se logo acima.  
+
 ---
-###Melhorias
 
 * Usar o _registration number_ como id da tabela de Registration.
 
